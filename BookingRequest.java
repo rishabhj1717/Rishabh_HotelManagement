@@ -21,6 +21,10 @@ public class BookingRequest {
 
             //Follwing could be used to run this program manually
             do {
+                System.out.println("\n\n----------------------------------------------------");
+                System.out.println("Displaying all rooms with current booking status");
+                h.displayAllRooms(h.rooms);
+                System.out.println("----------------------------------------------------\n\n");
                 System.out.println("Please enter the numb of occupants?");
                 numOccupants = sc.nextInt();
                 System.out.println("Would you require AC (y/n)");
