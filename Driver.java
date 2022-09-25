@@ -1,5 +1,3 @@
-package HotelManagement;
-
 public class Driver{
     public static Hotel populateHotel() {
         Hotel h = new Hotel("hotelName", "hotelAddress", 2, 7);

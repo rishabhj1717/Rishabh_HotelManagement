@@ -1,7 +1,3 @@
-package HotelManagement;
-
-import HotelManagement.Room;
-
 public class Hotel {
    String hotelName, hotelAddress;
    int numFloors, numOfRooms;

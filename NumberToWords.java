@@ -1,5 +1,3 @@
-package HotelManagement;
-
 public class NumberToWords {
     /*
      * This class is only to convert numerical to worded values.

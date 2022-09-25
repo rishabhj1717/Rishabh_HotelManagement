@@ -1,7 +1,3 @@
-package HotelManagement;
-
-import HotelManagement.NumberToWords;
-
 public class Room {
     Boolean acEnabled, isRoomBooked;
     int numbOfOccupants, floorNo, bookingPrice, roomId;
